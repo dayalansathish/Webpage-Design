@@ -1,0 +1,160 @@
+#container-1{
+    width: 70%;
+    margin: auto;
+}
+
+.body{
+    background-color: rgb(65, 65, 111);
+}
+
+.parent-img{
+    position: relative;
+    width: 100%;
+}
+
+.img{
+    position: absolute;
+    left: 250px;
+    bottom: 20px;
+}
+
+.head{
+    font-size: 80px;
+}
+
+.p{
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+#container-2{
+    width: 70%;
+    margin: auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.orange{
+    background-color: rgb(255, 134, 90);
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.skyblue{
+    background-color: rgb(30, 139, 222);
+    padding: 20px;
+    text-align: center;
+}
+
+#container-3{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 60px;
+    
+}
+
+.red{
+    background-color: rgb(242, 108, 108);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red-2{
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    
+}
+
+.pad{
+    padding-left: 85px;
+}
+
+#container-4{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 60px;
+
+}
+
+.skyblue-1{
+    background-color: rgb(30, 139, 222);
+    font-size: 25px;
+    
+}
+
+.skyblue-2{
+    background-color: rgb(30, 139, 222);
+    font-size: 25px;
+    padding-top: 102px;
+    
+}
+
+#container-5{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.red-3{
+    background-color: rgb(242, 108, 108);
+    text-align: center;
+    
+}
+
+.orange-2{
+    background-color: rgb(255, 134, 90);
+    text-align: center;
+    
+}
+
+#container-6{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 60px;
+
+}
+
+.skyblue-3{
+    background-color: rgb(30, 139, 222);
+}
+
+.text{
+    font-size: 60px;
+}
+
+#container-7{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 60px;
+}
+
+.orange-3{
+    background-color: rgb(255, 134, 90);
+}
+
+.text-1{
+    font-size: 60px;
+}
+
+#container-8{
+    width: 70%;
+    margin: auto;
+    padding-bottom: 80px;
+}
+
+.skyblue-4{
+    background-color: rgb(30, 139, 222);
+    text-align: center;
+    padding-top: 60px;
+}
+
+.red-4{
+    background-color: rgb(242, 108, 108);
+    text-align: center;
+    padding: 40px;
+}
